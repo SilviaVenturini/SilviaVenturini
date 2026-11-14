@@ -15,7 +15,7 @@ Through my projects, I explore different approaches to data analysis, from data 
 
 ### 📊 My Portfolio
 
-I'm continuously developing my analytical skills through practical projects and hands-on experience.
+I have developed skills in data analysis, data visualization and statistical methods through specialized training and practical projects.
 
 Explore my **[Data Analytics Portfolio](https://github.com/SilviaVenturini/Data-Analytics-Portfolio)** to discover my projects, analyses, visualizations and documentation.
 
