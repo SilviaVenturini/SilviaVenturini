@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Silvia Venturini!
 
-<!--
-**SilviaVenturini/SilviaVenturini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Data Analyst | Data Analytics
 
-Here are some ideas to get you started:
+I'm passionate about Data Analytics and the process of transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through my projects, I explore different approaches to data analysis, from data cleaning and statistical analysis to data visualization and machine learning.
+
+### 🛠️ Technical Skills
+
+- **Data Analysis:** Excel, SQL, Python
+- **Data Visualization:** Power BI, Tableau
+- **Big Data:** PySpark
+- **Machine Learning & NLP:** Predictive Analysis, Sentiment Analysis and Text Classification
+
+### 📊 My Portfolio
+
+I'm continuously developing my analytical skills through practical projects and hands-on experience.
+
+Explore my **[Data Analytics Portfolio](https://github.com/SilviaVenturini/Data-Analytics-Portfolio)** to discover my projects, analyses, visualizations and documentation.
+
+### 🎯 My Goal
+
+To keep learning, improving my technical skills and applying data analytics to real-world challenges.
+
+### 🔗 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/silvia-venturini92/)
+- 🐙 [GitHub](https://github.com/SilviaVenturini)
